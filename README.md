@@ -1,2 +1,0 @@
-# MyPython
-Python Tasks
